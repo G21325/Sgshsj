@@ -1,15 +1,15 @@
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
-https://api.iptvbd.xyz/api/sony_entertainment.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="HINDI",SONY MAX
-https://api.iptvbd.xyz/api/sony_max.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="HINDI",B4U Movies VIP
-https://api.iptvbd.xyz/api/b4u_movies.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC",B4U Music VIP
-https://api.iptvbd.xyz/api/b4umusic.m3u8
+https://ferdosbhai-toffe.iptvbd.xyz/api/b4umusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
-https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
 https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
