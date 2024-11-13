@@ -1,71 +1,67 @@
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainment
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="HINDI",SONY MAX
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_max
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="HINDI",B4U Movies VIP
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=b4u_movies
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC",B4U Music VIP
-https://ferdosbhai-toffe.iptvbd.xyz/api/b4umusic.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=b4umusic
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_ten1_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS",SONY SPORTS TEN 2 HD
-https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_ten2_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS",SONY SPORTS TEN 3 HD
-https://api.iptvbd.xyz/api/sony_ten3_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_ten3_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS",SONY SPORTS TEN 5 HD
-https://api.iptvbd.xyz/api/sony_six_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_six_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="SPORTS",Euro Sport HD
+https://shounwifi.net/api/toffee/ferdos.php?id=euro_sports_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="SPORTS",Euro Sport
+https://shounwifi.net/api/toffee/ferdos.php?id=euro_sports_sd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="KOLKATA",Sony Aat
-https://api.iptvbd.xyz/api/sony_aath.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_aath
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="HINDI",SONY MAX HD
-https://api.iptvbd.xyz/api/set_max_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=set_max_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD
-https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_entertainmnt_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="HINDI",SONY SAB HD
-https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_sab_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="HINDI",SONY MAX 2
-https://api.iptvbd.xyz/api/sony_max_2.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_max_2
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="HINDI",SONY WAH
-https://api.iptvbd.xyz/api/sony_wah.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_wah
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="HINDI",SONY PIX HD
-https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_pix_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="DOCUMENTORY",SONY BBC EARTH HD
-https://api.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_bbc_earth_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="DOCUMENTORY",ANIMAL PLANET HD
+https://shounwifi.net/api/toffee/ferdos.php?id=animal_planet_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="DOCUMENTORY",ANIMAL PLANET SD
+https://shounwifi.net/api/toffee/ferdos.php?id=animal_planet_sd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="DOCUMENTORY",DISCOVERY HD
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="DOCUMENTORY",DISCOVERY SD
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_sd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="DOCUMENTORY",DISCOVERY SCIENCE 
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_science
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="DOCUMENTORY",DISCOVERY TURBO HD
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_turbo
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="DOCUMENTORY",Investigation Discovery HD
+https://shounwifi.net/api/toffee/ferdos.php?id=discovary_investigation_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="DOCUMENTORY",Investigation Discovery 
+https://shounwifi.net/api/toffee/ferdos.php?id=discovary_investigation_sd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="DOCUMENTORY",TLC HD
+https://shounwifi.net/api/toffee/ferdos.php?id=tcl_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="DOCUMENTORY",TLC 
+https://shounwifi.net/api/toffee/ferdos.php?id=tcl_sd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KIDS",SONY YAY BANGLA
-https://stream.imotv.online/toffe/live.php?id=edf7ba617dc5&e=.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/live.png", GTV 3 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=LIVE-SPORTS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/TSports 21668953490.png", TSports 2 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=T-SPORTS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/GTV 31670253750.png", GTV 3 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=GTV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/sports18.png", Sports 18 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=sports-18&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony TEN 11667728321.png", Sony TEN 1 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-TEN-1&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony TEN 21667728105.png", Sony TEN 2 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-TEN-2&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony TEN 31667728117.png", Sony TEN 3 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-TEN-3&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony TEN 51667728306.png", Sony TEN 5 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Sony-Ten-5&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 11667750523.png", Star Sports 1 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-SPORTS-1&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports 21667750538.png", Star Sports 2 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-SPORTS-2&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/StarSports Select HD1667750883.png", StarSports Select HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SPL-1&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Sports Select 21667750897.png", Star Sports Select 2 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SPL-2&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/SomoyTV1689411430.png", SomoyTV http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SOMOY-NEWS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/independenttv.png", Independent Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=INDPENDENT-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Masranga1667751530.png", Masranga http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=MASRANGA-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Masranga1667751530.png", Masranga http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=RTV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Channel i1664976520.png", Channel i http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=CHANNEL-I&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/DBC1664825292.png", DBC http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=DBC-NEWS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Nagorik1680260468.png", Nagorik http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Nagorik-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Ntv1664826430.png", Ntv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=NTV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/atnnews.png", Atn News http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=ATN-NEWS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/gaanbangla.png", Atn News http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=GAN-BANGLA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/ekattortv.png", Ekattor Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Ekattor-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/SA Tv1664826606.png", SA Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SA-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/btvhd.png", BTV http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=BTV-HD&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Jamuna Tv1664825738.png", Jamuna Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=JAMUNA-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Channel 241664824751.png", Channel 24 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Channel-24&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/ekhontv.png", Ekhon Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Ekhon-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/News 241664826177.png", News 24 http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=News-24&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/atnbangla.png", Atn Banglga http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=ATN-BANGLA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Desh Tv1664825354.png", Desh Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=BOISHAKI-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/banglavision.png", Desh Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=BANGLAVISION-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Desh Tv1664825354.png", Desh Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Desh-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/My Tv1664826055.png", My Tv http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=My-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony Aath1667728032.png", Sony Aath http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-ART&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Zee Bangla1664976875.png", Zee Bangla http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=ZEE-BANGLA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Jalsha1664976894.png", Star Jalsha http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-JALSHA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Jalsha Movies1664976818.png", Jalsha Movies http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Colors Bangla1664976841.png", Colors Bangla http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=COLORS-BANGLA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/sangeetbangla.png", Sangeet Bangla http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SANGIT-BANGLA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Zee Bangla Cinema1664976800.png", Zee Bangla Cinema http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=ZEE-BANGLA-CINEMA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Zee Cinema HD1664974056.png", Zee Cinema HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=ZEE-CINEMA&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Colors TV HD1664974042.png", Colors TV HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=COLORS-HIN&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Plus1667751169.png", Colors TV HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-PLUS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/And Picture1664973301.png", Colors TV HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=AND-PICTURE&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony Entertainment1667728144.png", Sony Entertainment http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-ENT&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony Max HD1667728133.png", Sony Max HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-MAX&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony Max HD1667728133.png", Sony Max HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=MASTI&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Gold1667751269.png", Star Gold http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-GOLD&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Discovery1664975007.png", Discovery http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=DISCOVERY&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Star Movies1667751377.png", Star Movies http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=STAR-MOVIE&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Romedy Now1689427170.png", Star Movies http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=MOVIE-NOW&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Sony Pix HD1667728093.png", Sony Pix HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=SONY-PIX&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Romedy Now1689427170.png", Romedy Now http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Star-World&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Romedy Now1689427170.png", Romedy Now http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=History-TV&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Animal Planet1664974986.png", Animal Planet http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=Animal-Planet&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/National Geography1664975151.png", National Geography http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=NGO-GEROPHY&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Nick HD1664976992.png", Nick HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=NICK&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Nick HD1664976992.png", Nick HD http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=CN-NETWORK&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/DW TV1664825583.png", Discovery http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=DW-NEWS&e=.m3u8 #EXTINF:-1 tvg-logo="http://bdix2.zapto.org/we/assets/images/Discovery1664975007.png", Discovery http://nayeemparvez.online//ailaa-amr/stream.m3u8?id=AL-JAJERIA&e=.m3u8
+https://shounwifi.net/api/toffee/ferdos.php?id=sony_yay
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="KIDS",DISCOVERY KIDS
+https://shounwifi.net/api/toffee/ferdos.php?id=discovery_kids
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="KIDS",CARTOON NETWORK HD+
+https://shounwifi.net/api/toffee/ferdos.php?id=cartoon_network_hd
+#EXTINF:-1 tvg-logo="src="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png"" group-title="KIDS",POGO
+https://shounwifi.net/api/toffee/ferdos.php?id=pogo_sd
